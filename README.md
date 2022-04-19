@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   - [x] JS .   :white_check_mark:
   - [x] SASS . :white_check_mark:
   - [x] Bootstrap .  :white_check_mark:
-  - [ ] angular or react or Vue . :stopwatch:
+  - [ ] JavaScript Framwork => 'React' [learn more](https://github.com/AhmedShehata98/react-learn-plan). :stopwatch:
   
 
 
