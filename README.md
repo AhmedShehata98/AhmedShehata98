@@ -16,7 +16,9 @@
 [![gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedshehataq98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shehata-b63001225/)
 
-<hr/>
+
+
+
 ### Languages Tools and pkg's : 🛠
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white).
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,9 +29,11 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Node package Manager](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<hr/>
+
+
+
 ### Github Statistics 📈 :
-<br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedShehata98)](https://github.com/AhmedShehata98/github-readme-stats)
 
 
