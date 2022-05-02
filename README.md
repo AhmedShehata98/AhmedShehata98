@@ -1,7 +1,7 @@
-## Hi there 👋
-### welcome Dear Customer in my profile
+![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Here are some ideas to get you started:
+
+#### Hi i'a Ahmed Shehata 
 
 - 🔭 I’m currently working on Increase my experience ٫
 - 🌱 I’m currently learning Javascript Framework ٫
@@ -9,6 +9,22 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with with developing myself
 - 📫 How to reach me: ahmedshehataq98@gmail.com
 
+
+#### my social media links :
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MidoEsquire)
+[![gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedshehataq98@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shehata-b63001225/)
+
+
+### Languages Tools and pkg's : 🛠
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white).
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
+[![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+[![SASS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
+[![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]
+[![Node package Manager](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]
 
 
 # `ِAbout ME :`
