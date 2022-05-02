@@ -10,7 +10,7 @@
 - 📫 How to reach me: ahmedshehataq98@gmail.com
 
 
-#### my social media links :
+### my social media links :
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MidoEsquire)
 [![gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedshehataq98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shehata-b63001225/)
@@ -27,7 +27,7 @@
 ![Node package Manager](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 
-Github Statistics 📈 :
+### Github Statistics 📈 :
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedShehata98)](https://github.com/AhmedShehata98/github-readme-stats)
 
