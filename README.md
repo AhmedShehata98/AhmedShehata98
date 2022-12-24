@@ -1,4 +1,6 @@
+
 ![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 
 #### Hi i'a Ahmed Shehata 
@@ -51,8 +53,10 @@
   - [x] CSS .  :white_check_mark:
   - [x] JS .   :white_check_mark:
   - [x] SASS . :white_check_mark:
-  - [x] Bootstrap .  :white_check_mark:
-  - [ ] JavaScript Framwork => 'React' [learn more](https://github.com/AhmedShehata98/react-learn-plan). :stopwatch:
+  - [x] Bootstrap CSS  :white_check_mark:
+  - [x] Tailwinds CSS :white_check_mark: 
+  - [x] React JS  :white_check_mark:
+  - [x] Next JS  :white_check_mark:
   
 
 
@@ -61,31 +65,41 @@
  
  
  - my portofolio
-    - :link: [live Demo visit live Demo ](https://ahmedshehata.netlify.app) 
+  (HTML - CSS - Tailwind CSS - Javascript - typescript - React - Next js)
+    - :link: [live Demo visit live Demo ](https://portfolio-next-project-ahmedshehata98.vercel.app/) 
     
- - Music Player
+ - Marketify e-commerce 
+   (HTML - CSS - Tailwind CSS - Javascript - React)
+    - :link: [Marketify Demo](https://marketify.netlify.app/)
+ 
+  - Marketify e-commerce dashboard 
+    (HTML - CSS - Tailwind CSS - Javascript - typescript - React)
+    - :link: [dashboard Demo](https://markenstrator-js.netlify.app/)
+  
+ - Music Player 
+   (HTML - CSS - Javascript)
     - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/Music-Player-app/) 
-
-
- - my Sudy List 
+  
+ - My Sudy List 
+ (HTML - CSS - Javascript)
     - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/To-Study-List/)
-
-
- - GYM Subscriber Managment
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/subscriber-managment/)  
- - E-Commerce Product page 
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/ecommerce-product-page/)  
- - Inventory Managment System
+ 
+ - Inventory Managment System 
+ (HTML - CSS - Javascript )
     - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/Inventory-management-system/)  
- - Currency Convert - API Project
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/currency_exchange/) 
+    
  - Weather App - API Project
+   (HTML - CSS - Javascript )
     - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/Weather_App/)  
+  
  - Landing Page template 1
+   (HTML - CSS -Javascript )
     - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/LoopStudios-landing/)  
+  
  - Landing Page template 2
+  (HTML - CSS - Javascript )
     - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/sunnyside-agency-landing-page/)
+    
  - Landing Page template 3
+ (HTML - CSS - Javascript)
     - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/code-and-go/)  
- - Landing Page template 4
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/Analytics-Site/)  
