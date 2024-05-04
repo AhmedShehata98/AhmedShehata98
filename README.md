@@ -6,7 +6,7 @@
 #### Hi i'a Ahmed Shehata 
 
 - 🔭 I’m currently working on Increase my experience ٫
-- 🌱 I’m currently learning .NEt Core Framework ٫
+- 🌱 I’m currently learning .NET Core Framework ٫
 - 👯 I’m looking to collaborate on the experience of working with a team٫
 - 🤔 I’m looking for help with with developing myself
 - 📫 How to reach me: ahmedshehataq98@gmail.com
